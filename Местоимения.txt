@@ -1,0 +1,153 @@
+  Ед.ч.
+I - я
+You - ты(вы)
+She - она
+He - он
+It - это(оно),мужским и женским родом могут быть только люди все остальные собака, дом, стол - это
+
+  Мн.ч.
+We - мы
+They - они
+
+  Глаголы (to-be есть, быть)
+употребляеться с именами, национальностями, професиями
+I - am 
+are - you ,we,they
+is - he ,she,it
+
+I am Irina
+She is Maria
+He is Alex
+He is Kostya
+She is Sasha
+They are Maria and John
+I am Alice
+We are Alice and Maria
+
+Russian 
+American
+German
+Spanish
+
+a teacher
+I am a teacher //артикль 'a' показывает единственное число
+You are a student
+Irina is a teacher
+He is a student
+Peter is a student
+
+a doctor
+He is a doctor
+She is a doctor
+
+a singer
+I am a singer
+She is a singer
+
+a dancer
+He is a dancer
+She is a dancer
+
+//множественное число окончание s
+We are singers
+You are students
+
+a driver
+You are a driver
+He is a driver
+They are drivers
+
+//отрицание с to-be
+is, am, are -> + not
+I am not a teacher
+You are not a singer
+He is not a American
+They are not doctors
+They are not Russian
+i am not a student
+Shi is not Spanish
+He is not Kostya
+
+//вопросительные to-be поставить вперед 
+Are you a teacher?
+Is he a student?
+Is he American?
+
+friends
+They are friends
+
+Are they doctors?
+Are they Russian?
+
+Are you students?
+Yes,you are students
+Is she a doctor?
+Yes,she is a doctor
+No,she is not a doctor
+Is he a dancer?
+No,he is not a dancer
+Are you friends?
+Are they drivers?
+No,they are not drivers?
+
+We are friends
+They are not teachers
+She is Russian
+We are students
+We are not teachers
+Are you teachers?
+Are they American?
+She is not a singer
+Is irina a teacher?
+Yes,Irina a teacher
+
+//example
+I am kate
+We are not singers
+Are you a teacher?
+She is American
+I am student
+Are they dancers?
+He is not German
+You are Spanish
+Are you Russian?
+Yes,we are Russian
+Is she a singer?
+No,she is not a singer
+Are you drivers?
+They are Nina and Alice
+You are not a doctor
+She is a dancer
+
+French
+I am French
+I am not French
+Are you French?
+
+Ukrainian
+I am Ukrainian
+I am not Ukrainian
+Are you Ukrainian?
+He is not Ukrainian, he is Russian
+Is he Russian?
+Not,he is Ukrainian
+
+Armenian
+Is she Armenian?
+No,she is not Armenian
+
+Greek
+I am not Greek
+Is she Greek?
+You are not Greek
+
+Italian
+He is not Italian, he is French
+
+I am not Greek , I am Russian
+Are you Armenian?
+Are you Ukrainian?
+I am Italian
+
+
+
