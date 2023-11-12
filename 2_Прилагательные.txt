@@ -1,0 +1,112 @@
+//глагол to be используеться с прилагательными
+
+big / small
+I am big
+He is big
+They are small
+
+good / bad
+He is good
+They are bad
+He is bad
+
+smart (умный) / stupid
+He is stupid
+They are smart
+
+fat (толстый, жирный) plump (пухлый) big
+He is fat
+Is he plump?
+
+skinny (кожа, костлявый) thin (тонкий) slim = slender(стройный)
+She is skinny
+He is slim
+
+tall (высокий "про людей") high - высокий (про здание и т.д.) 
+The house is high
+
+short 
+He is short
+
+friendly (дружелюбный) / rude (грубый)
+un - friendly (недружелюбный)
+They are friendly
+
+She is very friendly
+He is very rude
+friendly
+tall
+thin
+plump
+rude
+fat
+small
+short
+slim
+unfriendly
+
+talkative (болтливые) / shy (скромный)
+She is talkative
+
+good
+bad
+smart
+stupid
+big
+small
+tall
+short
+skinny
+thin
+slim
+slender
+fat
+plump
+friendly
+rude
+talkative
+shy
+
+I am smart
+Is he big?
+Is she talkative?
+Are they slim?
+Am i shy?
+A am not shy
+Are you shy?
+You are not shy
+You are talkative
+Is he tall?
+Not,he is not tall
+Is she skinny?
+She is not skinny
+He is fat
+He is not fat
+Is he smart?
+He is not stupid
+Is he stupid?
+He is not smart
+
+//example
+Are you skinny?
+She is tall
+Not,she is not bad
+We are thin
+You are very smart
+Are they good?
+Yes,they are stupid
+You are fat
+He is small
+Is she slim?
+Are you small?
+We are very stupid
+She is plump
+You are good
+He is smart
+She is skinny
+We are big!
+
+
+
+
+

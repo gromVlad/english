@@ -57,7 +57,7 @@ You are a driver
 He is a driver
 They are drivers
 
-//отрицание с to-be
+//отрицание с to-be + not
 is, am, are -> + not
 I am not a teacher
 You are not a singer
