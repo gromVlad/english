@@ -1,0 +1,121 @@
+One 1 
+Two 2
+Three 3 
+Four 4
+Five 5
+Six 6
+Seven 7
+Eight 8
+Nine 9
+Ten 10
+Eleven 11
+Twelve 12
+
+I am five
+I am five "years old" (старости)
+Are you five?
+I am not five
+Irina am not old
+Am not seven
+Is he seven?
+Are you eight?
+Is he ten years old?
+No,he is not tem years old?
+Is she nine?
+Yes,she is nine
+Are they five?
+No,they not five.They are six
+Is he one year old? (one -ед.ч year без s)
+He is not one
+He is three
+
+A half (одна половина)
+...and a half (с половиной)
+
+Is he Russian?
+Is he ten?
+He is not a teacher
+She is Ukrainian
+Are you a student
+Are you nine?
+She is not nine
+She is American
+They are French
+They are Armenian
+Is he Russian?
+One
+Two
+Three
+Four
+Five
+Six
+Seven
+Eight
+Nine
+Ten
+
+//разговор о времени it is ...
+It is one o`clock (o`clock - время на цифирблате)
+It is clocks (часы)
+It is seven o`clock now
+
+AM - до полудня
+PM - после полудня
+It is seven AM (семь утра)
+It is seven PM (семь вечера)
+It is one Am (час ночи)
+
+//утро/ день /вечер
+In the morning (утро)
+In the afternoon (после полудня, день)
+In the evening (вечер)
+At night (ночью - устойчивое выражения)
+
+It is five o`oclock in the evening
+
+It is three o`oclock in the afternoon
+it is four o`oclock in the evening
+It is five o`oclock in the morning
+It is ten o`oclock in the evening
+It is eleven o`oclock AM
+It is twelve o`oclock AM
+
+It is ten o`clock AM
+We are French
+They are Italian
+He is twelve years old
+Is he eleven ?
+He is not plump
+It is three oclock in the afternoon (PM)
+It is not three PM
+Is it three o`clock in the afternoon?
+Yes, it is
+Is it ten AM?
+No, it is not
+It is not ten Am
+
+Is it one o`clock in the afternoon?
+Yes,it is. It is one PM now
+No,it is not. It is not one PM
+
+Is it nine oclock in the morning?
+Yes,it is. It is nine PM now
+No it is not.It is not none PM
+it is ten PM now
+
+Is she five?
+No she isn`t. She is not five
+She is five and a half
+
+Is it two oclock in the morning?
+Yes,it is. It is two AM now
+No it is isn`t. It is not two PM now
+
+Is he skinny?
+//нет. ...
+No,he isn`t. He is not skinny but he is not fat
+
+hours // 60 минут / 1 час
+
+
+
