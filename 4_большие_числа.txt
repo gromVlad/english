@@ -1,0 +1,131 @@
+// до 13 до 19 + teen
+Thirteen 13
+Fourteen 14
+Fifteen 15
+Sixteen 16
+Seventeen 17
+Eighteen 18
+Nineteen 19
+
+// 20 30 40 + ty
+Twenty
+Thirty
+Forty
+Fifty
+Sixty
+Seventy
+Eighty
+Ninety
+
+Twenty one
+Twenty two
+Twenty three
+Twenty four
+
+I am forty two
+Is he thirty seven?
+Is he not fifteen
+Is he twenty two?
+Is he thirty nine years old
+I am Anna. I am twenty five years old. I am tall. I am smart. I am Russian
+I am Oleg. I am twenty two years old. I am a student. I am smart (clever, intelligent)
+
+//Cколько ... лет?
+how - как
+How old are you?
+How old is he?
+How old are they?
+How old are we?
+
+//Kоторый час?
+What time is it now?
+It is seven o`clock
+
+//Сколько это стоит?
+How much is this?
+It is (i`ts) twenty dollars
+It is not ten dollars
+
+Roubles
+It is ninety roubles
+
+Sixty four
+Thirty one
+Twenty two
+Seventy eight
+Fifty three
+Thirteen 
+Nineteen
+Ninety
+Forty four
+Fifty seven
+Seventeen
+Twenty five
+Twelve
+Twenty
+Fifty
+Sixteen
+Eleven
+Ninety three
+Fourteen
+Fourty
+Seven
+Nineteen
+Sixty three
+twenty six
+Sixty two
+Ninety nine
+
+a hundred 100
+It is one hundred ninety nine
+It is not twenty two dollars
+How mush is it?
+It is fifty five dollars
+How mush is that?
+that - то
+It is one hundred twenty seven dollars
+How old are you?
+I am fifty four years old
+How old is he?
+It is forty eight years old
+What time is it?
+It is one o`clock in the afternoon
+It is four PM 
+Is he plump?
+He is not tall
+Is he short?
+He is not short
+
+Oleg,is she seven?
+No, is she seven and a half
+Is Anna fat or slim?
+She is plump and she is five years old
+What time is it?
+It is eight o`clock in the morning
+When i was twenty five, I was fat
+Irina,how mush is this?
+It is one hundred and fifty five dollars
+My sister is twenty years old
+How mush is this book?
+It is eighty nine roubles
+
+years
+years old
+old
+and a half
+o`clock
+hour
+clocks
+AM
+PM
+in the morning
+in the afternoon
+Noon
+In the evening
+At night
+but
+Smart,clever,intelligent
+that
+Roubles
+a hundred
+
