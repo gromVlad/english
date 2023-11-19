@@ -1,0 +1,138 @@
+//В английском языке прямой порядок слов на первое место ставим предмет (подлежащие) + глаголы (сказуемое) + вт. члены (дополнительные слова)
+//Существительное (кто? , что?)
+//В англиском языке нет среднего рода есть мужской и женский и есть слова it(все кроме людей)
+
+mother
+mummy
+mum
+
+father
+daddy
+dad
+
+//множетсвенное число -  + "s"
+parents (+ "s")
+
+//если слова в единтсвенном числе то ставим артикаль - "a"
+a parent
+
+a daughter
+a son
+a child = a kid
+children = kids
+a sister
+a brother
+sisters
+brothers
+siblings (брат и сестра)
+a sibling (кто то из них)
+a grandmother
+a grandfather
+grandmothers //cranny / crandma / grandmum
+grandfathers / grandad / crandpa
+a grandparent
+grandparents
+
+//если начинаеться на гласную букву(a,o,e,i,u) слова в единтсвенном числе то ставим - + "an" 
+an aunt (тетя)
+an uncle (дядя)
+
+a niece (племяница)
+a nephew (племяник)
+granddaughter (внучка)
+grandson (внук)
+grandchildren (внук и внучка)
+grandchild (внук или внучка)
+
+//пра - + "great"
+a great-grandfathers (прадедушка)
+a great-grandmothers (прабабушка)
+a great-granddaughter (правнучка)
+great-grandchildren (правнуки)
+
+a cousin (двоюродные сестра или брат)
+cousins
+
+//не родные - + "step"
+stepdaughter (падчирица)
+stepson (пасынок)
+stepfather (приемный отец)
+... 
+
+a mother
+a father
+parents
+a son
+a child
+children
+a cousin
+brother
+grandfather
+grandmother
+sister
+grandson
+an uncle
+stepdmother
+daughter
+granddaughter
+stepfather
+stepdaughter
+a great-grandmother
+a great-grandfathers
+an aunt
+
+//притяжательные местоимения - чей?
+my 
+your (твой)
+his (его)
+her (ее)
+our (наш)
+their(их)
+its
+
+Ошибки в предложениях:
+
+1. My brother not is forty years old.
+Исправление: My brother is not forty years old.
+
+2. My an uncle is thirty years old.
+Исправление: My uncle is thirty years old.
+
+3. She is not my sister.
+Исправление: She is not my sister.
+
+4. My an aunt friendly.
+Исправление: My aunt is friendly.
+
+5. Their a great-grandfather not is tall.
+Исправление: Their great-grandfather is not tall.
+
+6. Is your son stupid?
+Исправление: Is your son smart?
+
+7. My granddaughter is good.
+Исправление: My granddaughter is well.
+
+1. My brother is tall.
+2. My grandmother is eighty-eight years old.
+3. My brother is not forty years old.
+4. My children are smart.
+5. Is your brother short?
+6. Is your sister smart?
+7. My uncle is thirty years old.
+8. She is not my sister.
+9. Our children are tall.
+10. My sister is good.
+11. Their parents are smart.
+12. Their mother is not tall.
+13. I am fifty-five years old.
+14. Is my grandmother good?
+15. Is her father fifty-five years old?
+16. My aunt is friendly.
+17. Their grandfather is not rude.
+18. Our daughter is slim.
+19. Her children are thirteen and fifteen years old.
+20. Is your son smart?
+21. Their great-grandfather is not tall.
+22. His mother is plump.
+23. My granddaughter is well.
