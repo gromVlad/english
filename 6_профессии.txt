@@ -1,0 +1,88 @@
+beautiful (красивый для женщины) / handsome (красивый для мужчины) / ugly (уродливый)
+
+nice (милый) 
+Lovely (миленький)
+Rude (грубый)
+Uneducated (невоспитанный)
+
+My mother is a doctor
+Your mother is not a teacher
+Is your father a dancer?
+Is his sister a singer?
+My uncle is American
+My parents are not Spanich
+My cousin is Ukrainian
+My cousin is not Ukrainian
+Is your aunt Armenian?
+My uncle is Armenian but my aunt is not Armenian
+She is Russian
+Are your great-grandparents American?
+Yes, my great-grandparents are American
+Is your aunt Franch?
+My uncle and my aunt are not Franch
+
+a manager
+Is your brother a manager?
+a banker
+Is your mother a banker?
+Yes, my mother is a banker
+a bartender (бармен)
+Is your brother a bartender?
+a businessman
+Is your father a businessman?
+Yes,my father is a businessman
+Is your brother a businessman?
+a designer
+is his daughter a designer?
+Yes,she is
+a developer
+is your brother a developer?
+Yes, my brother is a developer
+Our father is a developer in facebook
+Our parents are developers in Google
+a journalist
+His sister is a journalist
+My sister is not a journalist
+an engineer
+I am an engineer
+Is your brother a engineer?
+Our parents are not engineers
+Our parents are journalist
+a model
+His daughter is a model
+Is her daughter a model?
+Our sister is not a model
+a police officer / policeman
+Is your father a policeman?
+No, my father is not a policeman
+a musician
+My stepbrother is a musician
+Are you a musician?
+a teacher / a proffecor
+I am a proffecor
+You are a students
+
+Is your mother a banker?
+No, my mother is not banker
+My mother a model
+Is your grandfather a bartender?
+Yes,my grandfather is a bartender
+My father is a businessman
+Is your father a businessman?
+My stepbrother is not a model
+She is an engineer
+He is a journalist
+Is your brother a musician?
+No, my brother is not a musician
+Is your mother a designer?
+Yes, my mother is a designer
+My parents are developers
+Our father is not a developer
+Is your uncle a journalist?
+No, my uncle is not a journalist
+His stepdmother is an engineer
+Her uncle is a banker
+
+
+
+
