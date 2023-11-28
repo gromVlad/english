@@ -1,0 +1,44 @@
+buy food
+eat in the restaurant
+eat in the cafe
+eat out (кушать не дома)
+Do you eat in the restaurant often?
+Yes,I do
+
+Do you parents eat out every year?
+No,they dont
+They dont eat out every week
+a day
+a week
+a mouth
+a year
+a season
+Do you eat fast food?
+No,I dont 
+Do you travel in Russia every year?
+No,I dont
+
+Do you travel in Europe every summer?
+Yes,I do
+summer
+winter
+spring
+autumn
+Do you travel in Italy in spring?
+No,I dont
+I dont travel in Italy in spring
+Do you travel in winter?
+No, you dont
+Do you travel in Australia?
+Me? I dont
+I dont travel in Australia
+No you dont
+You dont travel in Australia
+Do you travel in Russia?
+Yes,you do
+You travel in Russia
+
+//два глагола - добовляеться частичка to
+I like to travel
+
+//15.30
