@@ -36,9 +36,151 @@ No you dont
 You dont travel in Australia
 Do you travel in Russia?
 Yes,you do
-You travel in Russia
+Do you travel in Europe?
+No you dont
+You dont travel in Europe
 
 //два глагола - добовляеться частичка to
 I like to travel
+She doesnt like to cook
+I want to buy a TV set
 
-//15.30
+//sell (продать)
+She wants to sell a radio set
+Does she wants to sell a radio set?
+No, she doesnt
+No,she doesnt wants to sell the radio set
+She doesnt wants to sell the radio set
+
+//rent (aрендовать)
+Does he want to rent a car?
+Yes, he does
+No, he doesnt
+He doesnt want to rent a car
+Does he want to rent a bicycle?
+He doesnt want to buy a car
+Does want to rent a car
+Does he rent a car?
+He doesnt rent a car
+She doesnt want to buy a bicycle
+
+Do you like to travel?
+Yes, I do
+Does she like to travel in Mexico?
+Does she want to travel in Mexico?
+She wants to travel in Mexico
+Do you want to eat in this restaurant?
+I dont want to eat in this restaurant
+Do they want to eat in this cafe?
+Yes , they want to eat in this cafe
+Do your parents want to eat out?
+Yes, they do
+Yes, my parents want to eat out
+Does your friend want to walk to the park?
+Do you want to work as a teacher?
+She wants to work as a banker
+Do your siblings want to live in USA?
+My brother doesnt want to live in USA
+My sister want to live in USA
+Does she want to live in Russia?
+Yes, she wants to live in Russia with our(her) parents
+Do your grandparents like to live in Russia?
+Yes, they like to live in Russia
+Do your friends want to travel every summer?
+My best friend likes to travel every winter
+He wants to buy a car in autumn
+He doesnt want to buy a car in spring
+I want to buy a bicycle in summer
+Do you want to buy a car in winter?
+I want to buy a camera(photocamera) in winter
+Do you want to visit her parents every week?
+No,I dont
+
+//every (каждый)
+//other (другой) every other week(через неделю)
+
+autumn
+summer
+spring
+winter
+eat in the restaurant
+eat in the cafe
+eat out
+year
+season
+mouth
+week
+day
+every day
+year
+from time to time
+every other day
+
+my
+your
+her
+his
+their
+its
+our
+
+a doctor
+a teacher
+an engineer
+a model
+a dancer
+a singer
+a manager
+a banker
+a businessman
+a bartender
+a designer
+a developer
+a journalist
+a policeman
+a musican
+
+England
+Russia
+Spain
+Italy
+Finland
+Poland
+France
+Armenia
+The USA
+
+//have (иметь , у меня есть)
+I have
+You have
+He has
+SHe has
+it has
+We have
+You have
+They have
+//I have + a/an (в ед.ч)
+Do you have a child?
+Do you have an aunt?
+Yes, I do
+Does he have a sister?
+No, he doesnt have a sister
+Yes, he does
+Does your best friend have grandparents?
+Yes, he does
+Does he have a cat?
+Yes, he does
+No, he doesnt
+Do your parents have siblings?
+Yes, they do
+Does he have friends on America?
+Yes, he does
+He has friends in America
+
+
+
+
+
+
+
+
